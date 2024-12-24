@@ -14,7 +14,7 @@ pip install tree-sitter transformers openai
 ```
 
 ### Datasets
-You need to download the following datasets for training and testing:Devign Reveal Big-Vul.
+You need to download the following datasets for training and testing:Devign Reveal Big-Vul. https://drive.google.com/drive/u/0/folders/1NHPepk-6zqUTrV_B7wdFfdaRlzP5iXJg
 Once the datasets are downloaded, extract them to the project directory.
 
 
